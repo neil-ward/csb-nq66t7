@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://neil-ward.github.io/csb-nq66t7/static/css/main.5e1d73c1.chunk.css",
+    "main.js": "https://neil-ward.github.io/csb-nq66t7/static/js/main.a37edc97.chunk.js",
+    "main.js.map": "https://neil-ward.github.io/csb-nq66t7/static/js/main.a37edc97.chunk.js.map",
+    "runtime-main.js": "https://neil-ward.github.io/csb-nq66t7/static/js/runtime-main.2949a6a1.js",
+    "runtime-main.js.map": "https://neil-ward.github.io/csb-nq66t7/static/js/runtime-main.2949a6a1.js.map",
+    "static/js/2.850f02e6.chunk.js": "https://neil-ward.github.io/csb-nq66t7/static/js/2.850f02e6.chunk.js",
+    "static/js/2.850f02e6.chunk.js.map": "https://neil-ward.github.io/csb-nq66t7/static/js/2.850f02e6.chunk.js.map",
+    "index.html": "https://neil-ward.github.io/csb-nq66t7/index.html",
+    "precache-manifest.64ca7b7910186ca2d32516fc9c85b277.js": "https://neil-ward.github.io/csb-nq66t7/precache-manifest.64ca7b7910186ca2d32516fc9c85b277.js",
+    "service-worker.js": "https://neil-ward.github.io/csb-nq66t7/service-worker.js",
+    "static/css/main.5e1d73c1.chunk.css.map": "https://neil-ward.github.io/csb-nq66t7/static/css/main.5e1d73c1.chunk.css.map",
+    "static/js/2.850f02e6.chunk.js.LICENSE.txt": "https://neil-ward.github.io/csb-nq66t7/static/js/2.850f02e6.chunk.js.LICENSE.txt",
+    "static/js/main.a37edc97.chunk.js.LICENSE.txt": "https://neil-ward.github.io/csb-nq66t7/static/js/main.a37edc97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2949a6a1.js",
+    "static/js/2.850f02e6.chunk.js",
+    "static/css/main.5e1d73c1.chunk.css",
+    "static/js/main.a37edc97.chunk.js"
+  ]
+}
